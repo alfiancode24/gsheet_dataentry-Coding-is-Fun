@@ -1,0 +1,3 @@
+https://github.com/Sven-Bo/google-sheets-data-entry-form-with-streamlit.git
+
+https://www.youtube.com/watch?v=_G5f7og_Dpo&t=204s
